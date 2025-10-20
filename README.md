@@ -1,10 +1,10 @@
 # 안녕하세요
 
-## 📕 소개
+## 📕 소개 (Information)
 - 안정적이고 확장 가능한 백엔드 시스템을 구축하는 주니어/경력 백엔드 개발자를 목표합니다.
 - 코드의 품질과 효율적인 협업을 중요시하는 클린 코드 지향 개발자입니다.
 
-## 🔥 진행중인 프로젝트
+## 🔥 진행중인 프로젝트 (Current Project)
 - [PayStream-대규모 트래픽 대응 숙박 예약 시스템](https://github.com/Mminzy22/PayStream)
 
 ## 📌 주요 프로젝트 (Projects)
@@ -43,8 +43,8 @@
 ---
 ## 📈 GitHub 통계
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&hide_border=true&count_private=true)](https://github.com/YOUR_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue&hide_border=true)](https://github.com/YOUR_USERNAME)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonu5849&show_icons=true&theme=radical)
+
 
 ---
 
